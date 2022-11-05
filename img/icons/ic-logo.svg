@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22px"
+   height="22px"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="ic-logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-5.7796607"
+     inkscape:cy="11"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <!-- Generator: sketchtool 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">4A09CB50-F1D5-4364-BAE6-33FCCDC44261</title>
+  <desc
+     id="desc4">Created with sketchtool.</desc>
+  <defs
+     id="defs6" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1;fill-opacity:1"
+     d="M 0 0 L 0 22 L 22 22 L 22 0 L 0 0 z M 2.4394531 4.4570312 L 5.9902344 4.4570312 C 6.7753906 4.4570312 7.4414063 4.5234375 7.9863281 4.6582031 C 8.53125 4.7871094 9.0136719 4.9921875 9.4355469 5.2734375 C 9.9335939 5.6074218 10.318359 6.0234374 10.587891 6.5214844 C 10.863281 7.0195312 11.001953 7.6503906 11.001953 8.4121094 C 11.001953 8.9921875 10.898438 9.5312496 10.693359 10.029297 C 10.494141 10.521484 10.212891 10.949219 9.8496094 11.3125 C 9.3984375 11.763672 8.8652344 12.103516 8.25 12.332031 C 7.6347657 12.554687 6.8574219 12.666016 5.9199219 12.666016 L 4.1796875 12.666016 L 4.1796875 17.542969 L 2.4394531 17.542969 L 2.4394531 4.4570312 z M 4.1796875 5.9511719 L 4.1796875 11.179688 L 5.6484375 11.179688 C 6.3515625 11.179686 6.921875 11.119141 7.3613281 10.996094 C 7.8007813 10.867188 8.1582031 10.664063 8.4335938 10.388672 C 8.7089842 10.107422 8.9023437 9.8125001 9.0136719 9.5019531 C 9.1308593 9.1914063 9.1894531 8.8417971 9.1894531 8.4550781 C 9.1894531 8.0039063 9.1113281 7.6113281 8.953125 7.2773438 C 8.7949219 6.9433596 8.5546875 6.671875 8.2324219 6.4609375 C 7.9511719 6.2792969 7.6289063 6.1503906 7.265625 6.0742188 C 6.9082031 5.9921875 6.4531249 5.9511719 5.9023438 5.9511719 L 4.1796875 5.9511719 z M 12.871094 6.4003906 L 14.216797 6.4003906 L 14.216797 10.431641 C 14.636936 10.083116 15.0727 9.8109809 15.521484 9.6152344 C 15.970269 9.4194878 16.429688 9.3222656 16.902344 9.3222656 C 17.766493 9.3222656 18.425347 9.5831161 18.878906 10.103516 C 19.332465 10.623915 19.558594 11.37283 19.558594 12.351562 L 19.558594 17.542969 L 18.212891 17.542969 L 18.212891 12.988281 C 18.212891 12.62066 18.191404 12.27691 18.148438 11.957031 C 18.105471 11.632379 18.026695 11.380642 17.912109 11.199219 C 17.792752 10.998698 17.620877 10.849393 17.396484 10.753906 C 17.172092 10.653646 16.88151 10.603516 16.523438 10.603516 C 16.155816 10.603516 15.772136 10.69553 15.371094 10.876953 C 14.970052 11.058377 14.584419 11.288628 14.216797 11.570312 L 14.216797 17.542969 L 12.871094 17.542969 L 12.871094 6.4003906 z "
+     id="Rectangle" />
+</svg>
